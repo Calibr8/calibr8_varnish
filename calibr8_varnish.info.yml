@@ -13,3 +13,4 @@ dependencies:
   - purge_ui
   - varnish_purge_tags
   - varnish_purger
+  - http_cache_control

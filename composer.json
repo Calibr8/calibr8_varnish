@@ -15,6 +15,7 @@
     ],
     "require": {
         "drupal/purge": "^3.0@beta",
-        "drupal/varnish_purge": "~1.10"
+        "drupal/varnish_purge": "~1.10",
+        "drupal/http_cache_control": "~1.0@alpha"
     }
 }
