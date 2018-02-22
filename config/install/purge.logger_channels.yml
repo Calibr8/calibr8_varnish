@@ -16,7 +16,7 @@ channels:
     grants:
       - 3
   -
-    id: purger_varnish_e69f15d907
+    id: purger_varnish_varnish
     grants:
       - 0
       - 2
