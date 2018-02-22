@@ -1,0 +1,20 @@
+{
+    "name": "calibrate/calibr8_varnish",
+    "description": "Varnish setup for Calibr8",
+    "type": "drupal-feature",
+    "keywords": ["Drupal 8","Purge","Varnish"],
+    "homepage": "https://github.com/calibr8/calibr8_varnish",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Steven Van den Hout",
+            "email": "steven.vandenhout@calibrate.be",
+            "homepage": "http://www.calibrate.be",
+            "role": "Drupal Lead"
+        }
+    ],
+    "require": {
+        "drupal/purge": "^3.0@beta",
+        "drupal/varnish_purge": "~1.10"
+    }
+}
